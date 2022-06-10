@@ -1,0 +1,395 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<!-- CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    <title>Calendars | Punta Mita 1</title>
+    <style>
+    h1 {
+      font-size: 3rem;
+    }
+   @media screen and (max-width:991px) {
+      iframe{
+        height: 300px!important;
+      }
+      h1 {
+        font-size: 2rem;
+      }
+      h3 {
+        font-size: 1.2rem;
+      }
+    }
+    </style>
+  </head>
+  <body>
+      <div class="container">
+        <div class="row justify-content-center">
+<!-- heading -->
+          <div class="col-12 text-center mt-3 mb-5">
+            <h1>Punta Mita 1</h1>
+          </div>
+
+<!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0002-Casa Roka</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=sbj0h7h07h8vf6crgcbu0pshvc%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+<!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0005-HDM Bahia</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=s98i1h6ihdh8c11ctno83fcb83qe26fm%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0006-Villa Pelicanos</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=eoh1ejb6rbkhtln8ks61t7ngd6np10k6%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0007-Casa Escondida</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=0ot8ldnu9lgljro9v1br9lrqus%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0008-Villa Avanti Four Seasons</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=0a1j8ch0gtq1emo4busu8e0ul0%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0009-Casa Tau</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=fcbj0ir68isbn8c974bbuovs08%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0011-Casa Pacifica Ranchos</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=ornjm6mgh5bm3rpml180lkk93o%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0012-Rancho RR</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=ncgt30bmjf9m7mf5rlabh241is%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+           <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0014-Villa Solaz</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=mcoc64vkrtup36ocmpnc6ug73g%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0018-Casa Tres Soles</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=7pg7sph676hv1esvobe2pkinn0%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+         
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0020-Casa Familia Ranchos</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=0g7id5tsj2l00ihj23ia0cqd94%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0021-Casa La Vida</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=ggii2c1tdnn33k4inlsoqipj00%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0025-Casa Mia</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=cpcbvc3cub0tvm3anm55j53dj0%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0031-Casa Afrique</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=9gvtkgdac2qsr2uqiict2e8u2k%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0038-Vista de Lago</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=5luma6n43auuverdrcqqd6rj14%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0041-Glass Penthouse</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=megac15hojnq75eimqj8c06ha0%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0043-Villa Riva Four Seasons</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=v7dlhhtg68c6lvkn024dqlmmbg%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0044-Ipanema</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=8q1igh01jbjib2tdoak3t1ia08%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0047-Cuixa del Cielo</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=rhv7ek2kbml0egcc55g2edqnjk%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0048-Cuixa del Mar</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=2s64ff47o0umtfrm7f8pe7j0f8%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0049-Casa Koko</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=t9nj6n695cjbtkqrmqmj17ibsg%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0050-Casa Kalika</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=0fjfmtm9pepir2c7d14utsdjmkvr4vdc%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0052-Villa Dos Mares</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=elqe812780cli8ouuf0nihbmhr8ungo4%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0076-Villa Feliz</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=27ir1eomi1qa3v9s43kl3mbolc%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+          <!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0078-Casa la Caleta</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=8j68jtn88ge181f7qrk0mfr3to%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0082-Villa Los Veneros</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=arvbp0m0h1ic064cvo30s08hiks1urg2%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0095-Isla Marietas 202D</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=3ei42olfanbskoh6s8i99jpe38%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            
+           <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0098-Villa Belleza FS17</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=g2ogce0ni513fchqlojjvteb1dd8rlqm%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0099-HDM Aralia</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=8houqkminol8kvl2t778pevbk4%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+           <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0100-Villa Aguamarina</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=cp65ftu94hd3utnh36a45g5ruk%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0101-Marietas Aries</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=ff0thfe33ol8p4e94hab9c5q68%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0102-Villa Perla</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=phlfvmffvv3gfsu3d3qrs8lks8%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0103-Marietas Ara</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=sb17q330o9omem696ni4ulvpp4%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+ 
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0108-Casa del Faro</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=ifg5inge8j5s772bj65uu54ap0%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0115-Bolongo Penthouse</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=guspqdkqtgt7c979rrd9b7n0og%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0134-Luna Nueva</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=q2k8pco7f98fgke0kb3d1saos4%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0161-Casa Majani</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=dshsmplkipc5hdqi5ka34pabns%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0173-Bolongo N1</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=gf2hc7405vqq6qlbe4en9u1pm0%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+		  
+       </div>
+      </div>
+
+
+  </body>
+</html>
