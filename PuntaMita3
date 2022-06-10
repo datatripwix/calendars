@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<!-- CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    <title>Calendars | Punta Mita 3</title>
+    <style>
+    h1 {
+      font-size: 3rem;
+    }
+   @media screen and (max-width:991px) {
+      iframe{
+        height: 300px!important;
+      }
+      h1 {
+        font-size: 2rem;
+      }
+      h3 {
+        font-size: 1.2rem;
+      }
+    }
+    </style>
+  </head>
+  <body>
+      <div class="container">
+        <div class="row justify-content-center">
+<!-- heading -->
+          <div class="col-12 text-center mt-3 mb-5">
+            <h1>Punta Mita 3</h1>
+          </div>
+
+
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0261-Villa Vatule</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=joit981tup8cs0ptd0o6skv0l8%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0267-Villa Samba</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=mf1flffoij1kv9uhtndpi9grn0%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+           <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0268-Tau Residences 222</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=infov7ao3gfd8v68k97iuli7i8%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0269-Villa Maria Kupuri 39</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=f5gnt7lb0a2o4f3haolb3j3mvc%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0281-Casa Noosa</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=hjaojrettgq0t996hsdetn5ou4%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0285-HDM 1203</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=87qilfctgi2eueffbjae6be2sc%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+         <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0287-Villa Teulu</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=qc6vkpr8tgi4r9te7oef2dih5q8v1d95%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0290-Villa Ballena FS19</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=0dno533sveuecofap5srjel9441be61e%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0291-Villa Olivet</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=0r0th9h06mkhpnq49nposrpd3k%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+<!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0293-Casa Alba Kupuri 29</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=682r6cmgdkd3e7sif8rpa75b3g%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+<!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">MX0294-Porta Fortuna B2</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=of95846574ggj4ap08nhqe7l5g%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          
+        </div>
+      </div>
+
+
+  </body>
+</html>
