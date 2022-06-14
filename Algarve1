@@ -1,0 +1,486 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<!-- CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    <title>Calendars | Algarve 1</title>
+    <style>
+    h1 {
+      font-size: 3rem;
+    }
+   @media screen and (max-width:991px) {
+      iframe{
+        height: 300px!important;
+      }
+      h1 {
+        font-size: 2rem;
+      }
+      h3 {
+        font-size: 1.2rem;
+      }
+    }
+    </style>
+  </head>
+  <body>
+      <div class="container">
+        <div class="row justify-content-center">
+<!-- heading -->
+          <div class="col-12 text-center mt-3 mb-5">
+            <h1>Algarve 1</h1>
+          </div>
+
+<!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0008-Casa Eska</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=7fdlgfsikqbovo5bgv6katorgo%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+
+<!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0009-Mirante 1</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=l1r1tgjvq55c3jqpsd7k8ri5o0%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+
+<!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0015-Aguia Mar</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=2gvhv5j709qptamredfc3t7gv8%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0016-Villa al Mar</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=snnqhbl065er3jdblbe85mdkgg71h261%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0017-Villa Praia</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=149evf0vkf4vmckr6hp0mor0q842gjn1%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0018-Villa Trevo</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=rok9gv1tkb68vk8mqj0194a8dn26d2hv%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0019-Villa Hibiscus</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=4jk9sc9hpl9dc464k8a3s1b6laailmda%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0020-Villa Alegria</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=3u1ggthffdvelj8q0c95jnh7160jl77t%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0021-Casa da Rocha</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=kubf17ar5172da42ljv571shkg%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0022-Villa Mar a Vista</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=c7muelgfu146a8el5ovgt036j1cdgan5%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0024-Casa Sky</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=bipnf8i263ip6olvn014rj0qc4%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0025-Villa Cahombo</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=047dd0d5csl3j3h86a8807rii8%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0026-Villa Mar Azul</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=6onm9ov3ubpn1em1nm79343en5e9ptsd%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0028-Casa da Música</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=ensqs0okd58r7rci6mtmjn5rok%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+
+           <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0027-Villa Atlantico I</h3>
+              <iframe src="https://calendar.google.com/calendar/ical/mmj6f9f2c62d11trmhloa3jh98pqok8j%40import.calendar.google.com/public/basic.ics" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+
+           <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0027-Villa Atlantico II</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=phk5u36q2jou6d0lj8a46lbf49f4auve%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0029-Villa Montanha</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=k1r31ilh5k51kfrpl2kmkvk7v4%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0030-Casa do Alemão</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=movkgmuajg6u8e9d9avu6ri430%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0042-Estrela do Mar</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=80mt7ospn78mvm4id5ga59dq63rg6eig%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0045-Villa Sky 1</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=td6n2lqoko0uvcu0ulsgblcjhc%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+ 
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0054-Casa Palmeira</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=9ov0jmlckmknisorcm07n98b3g%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0058-Quinta da Donalda</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=plmqn4d6d19decmd2u5ipkkop0%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0067-Townhouse Sol e Mar</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=j3802h8mft4g6r06rs3b9fulmbe5suib%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0070-Dream Villa V10</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=10po9bium5n7f5fa0r1jrt3als%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0078-Balbina</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=4nvvv5ekvckgjm5r3vutoshc9c%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0084-Vilarabe</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=7u7krolnjhsfftiaoralfmesi0%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0085-Monte Rei 1BR Links</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=974vuopvoj9no38nuer96labso%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0086-Monte Rei 2BR Links</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=tj7k8dckqdnfl7dkgp75ol2974%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0087-Monte Rei 3BR Links</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=qhjd38eq8betb2qlc4ga9u91uk%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0088-Monte Rei 4BR Pool Villa</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=qqtk7k53rr258cdrhmbcslhfjc%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0089-Monte Rei 1BR Clubhouse Apt</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=uadi23u664e9c0g90s9vp2krq8%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0090-Monte Rei 2BR Clubhouse Apt</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=r1j1d23ckkfb5cpt16o0eu78i8%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0091-Monte Rei 3BR Clubhouse Apt</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=netbsoktamvbv5k3c9o8c3p3f8%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0093-M59</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=belegjru2fq54vi990pdq3hm0k%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0094-Pine Cliffs M2 Falesia</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=r7uh97khbm5j51lkknslmv38b4%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0095-Pine Cliffs M3 Sao Pedro</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=4v5qlrgrq1g8gqia0kentde56g%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0096-Pine Cliffs Ocean Suites 3BR</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=sdih43gtorab25vh200jqhk9to%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0097-Pine Cliffs Ocean Suites 2BR</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=mk3tnrn9kjt5o4jatlkcbpedrs%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0098-Pine Cliffs Ocean Suites 1 BR</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=7ke03pho0s4hd7dqu7ciablhu8%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0099-Granvila</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=88sb85uuouqko479kut52pgaousvbgfo%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0100-Cork Tree 24SNL</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=4k8152n6m60mpiqtva6ls5p80k%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0101-Villa 5GL</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=gfo9g6p1rqs1luu4mo7s5vfoho%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0153-Villa 8 Varandas Andorinha</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=2i3rvvrahk74lo8jk0n6bs456k%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+    <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+        <!-- title here -->
+              <h3 class="text-center mb-4">PT0155-Vila Vale Mouro</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=ae5ltiei8vbs9bup48q803930nkte9lk%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+          
+<!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+        <!-- title here -->
+              <h3 class="text-center mb-4">PT0158-Casa Cerro do Mocho</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=d9hfk4512isasmmf1f8us1nekk%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+
+<!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+        <!-- title here -->
+              <h3 class="text-center mb-4">PT0159-Villa Pinhal Velho</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=qsakc19b72717atvukbf9equtc%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+<!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+        <!-- title here -->
+              <h3 class="text-center mb-4">PT0160-Villa 57-188 Pinheiros Altos</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=644732rqbonv6ov9h7pfoo60c8%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+<!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+        <!-- title here -->
+              <h3 class="text-center mb-4">PT0161-Villa 8 Beira Lago</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=2c7iesu6finfrlmpmda9nuq798%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+
+
+        </div>
+      </div>
+
+
+
+  </body>
+</html>
