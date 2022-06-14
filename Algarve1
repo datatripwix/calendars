@@ -152,23 +152,14 @@
               <iframe src="https://calendar.google.com/calendar/embed?src=6onm9ov3ubpn1em1nm79343en5e9ptsd%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
             </div>
           </div>
-<!-- iframe ends -->
-            <!-- iframe starts -->
-          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
-            <div class="video-body">
-      <!-- title here -->
-              <h3 class="text-center mb-4">PT0028-Casa da Música</h3>
-              <iframe src="https://calendar.google.com/calendar/embed?src=ensqs0okd58r7rci6mtmjn5rok%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
-            </div>
-          </div>
-<!-- iframe ends -->
+
 
            <!-- iframe starts -->
           <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
             <div class="video-body">
       <!-- title here -->
               <h3 class="text-center mb-4">PT0027-Villa Atlantico I</h3>
-              <iframe src="https://calendar.google.com/calendar/ical/mmj6f9f2c62d11trmhloa3jh98pqok8j%40import.calendar.google.com/public/basic.ics" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+              <iframe src="https://calendar.google.com/calendar/embed?src=mmj6f9f2c62d11trmhloa3jh98pqok8j%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
             </div>
           </div>
 <!-- iframe ends -->
@@ -179,6 +170,17 @@
       <!-- title here -->
               <h3 class="text-center mb-4">PT0027-Villa Atlantico II</h3>
               <iframe src="https://calendar.google.com/calendar/embed?src=phk5u36q2jou6d0lj8a46lbf49f4auve%40import.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+
+<!-- iframe ends -->
+            <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">PT0028-Casa da Música</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=ensqs0okd58r7rci6mtmjn5rok%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
             </div>
           </div>
 <!-- iframe ends -->
