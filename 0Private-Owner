@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<!-- CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    <title>Calendars | Private Owner</title>
+    <style>
+    h1 {
+      font-size: 3rem;
+    }
+   @media screen and (max-width:991px) {
+      iframe{
+        height: 300px!important;
+      }
+      h1 {
+        font-size: 2rem;
+      }
+      h3 {
+        font-size: 1.2rem;
+      }
+    }
+    </style>
+  </head>
+  <body>
+      <div class="container">
+        <div class="row justify-content-center">
+<!-- heading -->
+          <div class="col-12 text-center mt-3 mb-5">
+            <h1>Private Owner Calendars/h1>
+            These are calendars that the owner shared with us, but they are not public. Thus, they cannot be linked to channels. These calendars are used to update Tripwix's own public calendars that can be shared with channel partners.
+          </div>
+    <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+        <!-- title here -->
+              <h3 class="text-center mb-4">IT0044-Villa Dominick - Owner (Private)</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=sgp3205pom8r207t230h76rkp0%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->    <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+        <!-- title here -->
+              <h3 class="text-center mb-4">IT0050-Villa degli Dei - Owner (Private)</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=6o4rv9gaa29vnn7dpme86uukbs%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+                               <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">IT0057-Dimora Ghirlandaio Estate - Owner (Private)</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=dimoraghirlandaio%40gmail.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+
+
+
+        </div>
+      </div>
+
+
+
+  </body>
+</html>
