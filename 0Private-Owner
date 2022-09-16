@@ -30,8 +30,9 @@
         <div class="row justify-content-center">
 <!-- heading -->
           <div class="col-12 text-center mt-3 mb-5">
-            <h1>Private Owner Calendars/h1>
-            These are calendars that the owner shared with us, but they are not public. Thus, they cannot be linked to channels. These calendars are used to update Tripwix's own public calendars that can be shared with channel partners.
+            <h1>Private Owner Calendars</h1>
+            <h6 class="text-center mb-4">
+            These are calendars that the owner shared with us, but they are not public. Thus, they cannot be linked to channels. These calendars are used to update Tripwix's own public calendars that can be shared with channel partners.</h6>
           </div>
     <!-- iframe starts -->
           <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
