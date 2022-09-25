@@ -57,7 +57,7 @@
             <div class="video-body">
         <!-- title here -->
               <h3 class="text-center mb-4">IT0053-Villa Mon Repos - Owner (Private)</h3>
-              Automatic calendar is private and only shared with sales.tripwix, not data.tripwix.  Mo will not be able to update.
+              <h5 class="text-center mb-4">Automatic calendar is private and only shared with sales.tripwix, not data.tripwix.  Mo will not be able to update.</h5>
               <iframe src="https://calendar.google.com/calendar/embed?src=luxurytoursandvacations%40gmail.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
             </div>
           </div>
