@@ -47,6 +47,16 @@
           <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
             <div class="video-body">
       <!-- title here -->
+              <h3 class="text-center mb-4">MX0265-FS Gemini</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=931kvhd7cogkpcrmr4flk8n6g8%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends -->
+
+          <!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
               <h3 class="text-center mb-4">MX0267-Villa Samba</h3>
               <iframe src="https://calendar.google.com/calendar/embed?src=mf1flffoij1kv9uhtndpi9grn0%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
             </div>
