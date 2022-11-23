@@ -145,7 +145,27 @@
             </div>
           </div>
 <!-- iframe ends --> 
-          
+ 
+<!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">BB0063-Estate Villa</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=57bc2ec4f8dde8f66d93ecb741337b50365ad31c8e9e626deb7cac26d05b6ec1%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends --> 
+
+
+<!-- iframe starts -->
+          <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
+            <div class="video-body">
+      <!-- title here -->
+              <h3 class="text-center mb-4">BB0062-Laughing Waters</h3>
+              <iframe src="https://calendar.google.com/calendar/embed?src=ba619effd1c5200bb6467cfd59e60ab3c6de1f00717fbdd288e075d4ea528461%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+<!-- iframe ends --> 
             
         </div>
       </div>
